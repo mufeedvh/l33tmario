@@ -3,5 +3,5 @@
 	<br>
 	Mario the game but you rescue the princess by hacking.
 	<br><br>
-	<img src="https://raw.githubusercontent.com/mufeedvh/l33tmario/master/static/welcome-screen.png" height="300" width="800">
+	<img src="https://raw.githubusercontent.com/mufeedvh/l33tmario/master/static/welcome-screen.png" height="350" width="800">
 </div>
