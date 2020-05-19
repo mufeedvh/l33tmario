@@ -32,9 +32,10 @@ Currently Linux is the only compatible operating system.
 **Using Docker:**
 
 ```bash
-	$ git clone https://github.com/mufeedvh/l33tmario.git && cd l33tmario/
-	$ docker-compose up -d
-	$ curl -I http://127.0.0.1 # to test
+    $ git clone https://github.com/mufeedvh/l33tmario.git
+    $ cd l33tmario/
+    $ docker-compose up -d
+    $ curl -I http://127.0.0.1 # to test
 ```
 
 ## Vulnerabilities Covered
