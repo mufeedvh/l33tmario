@@ -1,7 +1,54 @@
 <div align="center">
 	<h1>L33T Mario</h1>
-	<br>
 	Mario the game but you rescue the princess by hacking.
 	<br><br>
 	<img src="https://raw.githubusercontent.com/mufeedvh/l33tmario/master/static/welcome-screen.png" height="350" width="800">
 </div>
+
+## What's L33T Mario
+
+L33T Mario is a web game/application where you as Mario have to rescue the princess just like the classic but you play it by hacking. It's a vulnerable web game where you exploit several vulnerabilites to proceed through levels and eventually rescue the princess, each level getting harder and harder.
+
+It's made for a YouTube video and to help beginners learn **Web Application Security** with a little nostalgia and fun.
+
+## The Code
+
+It's written in one night and I haven't even bothered to document or clean the code, just pushed it to master when it finally worked 😂! I mean you still can understand what's going on but playing the game is the main point.
+
+I will work on cleaning & documenting the code later on when I add more levels/vulnerabilities to the game.
+
+## How To Setup
+
+Currently Linux is the only compatible operating system to run <b>L33T Mario</b>.
+
+**Apache Setup:**
+
+    $ cd /var/www/html/
+    $ git clone https://github.com/mufeedvh/l33tmario.git
+    $ cd l33tmario/
+    $ ./setup.sh
+
+## Vulnerabilities Covered
+
+- [x] IDOR
+- [x] XSS (Cross-site Scripting)
+- [x] Information Disclosure
+- [x] Broken Access Control
+- [x] Command Injection
+- [x] LFI (Local File Inclusion)
+- [ ] SSTI (Server-side Template Injection)
+- [ ] SSRF (Server-side Request Forgery)
+- [ ] XXE (XML External Entity)
+- [ ] Open Redirect
+- [ ] SQL Injection
+- [ ] DOM Clobbering
+
+**Pending and more vulnerabilities will be covered in later levels.**
+
+## Contribution
+Ways to contribute
+- Suggest a feature
+- Report a bug
+- Fix something and open a pull request
+- Help me document the code
+- Spread the word
