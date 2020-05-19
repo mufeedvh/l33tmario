@@ -1,0 +1,16 @@
+<VirtualHost *:80>
+
+	DocumentRoot /var/www
+
+    <Directory /var/www>
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog /dev/stdout
+    CustomLog /dev/stdout combined
+
+
+</VirtualHost>
+
+# vim: syntax=apache ts=4 sw=4 sts=4 sr noet

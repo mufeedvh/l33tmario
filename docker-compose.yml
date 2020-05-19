@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+  web:
+    build: .
+    restart: always
+    ports:
+      - "8000:80"
+    volumes:
+      - .:/var/www
+    networks:
+        default:
+        internal:
+
+networks:
+    default:
+    internal:
+        internal: true
