@@ -43,7 +43,7 @@ Currently Linux is the only compatible operating system.
 - [ ] SQL Injection
 - [ ] DOM Clobbering
 
-**Pending and more vulnerabilities will be covered in later levels.**
+**More vulnerabilities and the pending ones will be covered in later levels.**
 
 ## Contribution
 Ways to contribute
