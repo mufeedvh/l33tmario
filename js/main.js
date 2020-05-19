@@ -99,22 +99,6 @@ function getPlayerAliveStatus() {
     xhttp.send('conf=../conf/'+account_id+'/user.conf');
 }
 
-function getFriends() {
-
-}
-
-function getStatus() {
-
-}
-
-function getUsers() {
-
-}
-
-function sendMessage() {
-
-}
-
 function logoutSession() {
     var message = "Logging out will reset your progress? Are you sure you want to logout?";
     if (confirm(message)) {
