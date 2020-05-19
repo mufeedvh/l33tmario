@@ -5,9 +5,9 @@ services:
     build: .
     restart: always
     ports:
-      - "8000:80"
+      - "8:80"
     volumes:
-      - .:/var/www
+      - .:/var/www/l33tmario
     networks:
         default:
         internal:
