@@ -1,9 +1,5 @@
 <?php
 
-// conf folder created by php (www-data)
-// write the conf dynamically (in login)
-// here read the file with shell_exec();
-
 if (isset($_POST['conf'])) {
 	$account_id = $_POST['conf'];
 
