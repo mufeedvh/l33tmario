@@ -19,7 +19,7 @@ I will work on cleaning & documenting the code later on when I add more levels/v
 
 ## How To Setup
 
-Currently Linux is the only compatible operating system to run <b>L33T Mario</b>.
+Currently Linux is the only compatible operating system.
 
 **Apache Setup:**
 
@@ -47,8 +47,16 @@ Currently Linux is the only compatible operating system to run <b>L33T Mario</b>
 
 ## Contribution
 Ways to contribute
-- Suggest a feature
-- Report a bug
+- Suggest a level idea
+- Add a new level
+- Clean the code
+- Report any unintentional vulnerabilities
 - Fix something and open a pull request
 - Help me document the code
 - Spread the word
+
+------------
+
+***Support this project by starring, sharing, and contributing! :heart:***
+
+------------
