@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+  web:
+    build: .
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - .:/var/www/l33tmario
+    networks:
+        default:
+        internal:
+
+networks:
+    default:
+    internal:
+        internal: true
