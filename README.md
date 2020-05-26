@@ -40,7 +40,7 @@ Currently Linux is the only compatible operating system.
 
 ## Vulnerabilities Covered
 
-- [x] IDOR
+- [x] IDOR (Insecure Direct Object Reference)
 - [x] XSS (Cross-site Scripting)
 - [x] Information Disclosure
 - [x] Broken Access Control
