@@ -16,7 +16,7 @@ I put this on GitHub just so you can poke around with the application and try it
 
 L33T Mario is a web game/application where you as Mario have to rescue the princess just like the classic but you play it by hacking. It's a vulnerable web game where you exploit several vulnerabilites to proceed through levels and eventually rescue the princess, each level getting harder and harder.
 
-It's made for a YouTube video and to help beginners learn **Web Application Security** with a little nostalgia and fun.
+It's made for a YouTube video and to help **beginners** learn **Web Application Security** with a little nostalgia and fun.
 
 ## The Code
 
