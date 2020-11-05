@@ -6,6 +6,12 @@
 
 ![L33T Mario](https://raw.githubusercontent.com/mufeedvh/l33tmario/master/static/welcome-screen.png)
 
+# ❗⚠️ NOTE ⚠️❗
+
+**This project is only made for the purpose of the video and isn't meant to be used on production.**
+
+I put this on GitHub just so you can poke around with the application and try it out yourself. :)
+
 ## What's L33T Mario?
 
 L33T Mario is a web game/application where you as Mario have to rescue the princess just like the classic but you play it by hacking. It's a vulnerable web game where you exploit several vulnerabilites to proceed through levels and eventually rescue the princess, each level getting harder and harder.
